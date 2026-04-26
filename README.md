@@ -13,9 +13,9 @@ Uta là nền tảng nghe nhạc trực tuyến, được xây dựng và vận 
 
 📜 Chứng chỉ
 
--Python Essential 1
+Python Essential 1
 
--Docker Foundations Professional 
+Docker Foundations Professional 
 
 📞 Liên hệ
 Email: ntk.0510.2005@gmail.com
